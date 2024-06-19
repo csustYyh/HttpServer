@@ -1,0 +1,43 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“10.170.141.3”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Crypto.cpp
+  DatabaseHelper.cpp
+  Epoll.cpp
+  HttpParser.cpp
+  http_parser.c
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Logger.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  main.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  MysqlClient.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  Server.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  Sqlite3Client.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  sqlite3.c
+  test.cpp
+  Thread.cpp
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   }
+D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\Thread.h(229,2): warning :   ^
+  正在链接对象
+  EPlayerServer.vcxproj -> D:\07cpp_code\02yibo\01server\EPlayerServer\EPlayerServer\bin\x64\Debug\EPlayerServer.out
